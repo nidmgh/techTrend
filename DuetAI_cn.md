@@ -62,7 +62,7 @@ Google提出了[Duet AI in Google Cloud - troubleshooting issues](https://www.yo
 
 * 技术路径：时序数据库（一般的数仓也够了）+ 针对数据库日志的大模型训练 + 反馈机制[^C5].
 
-[^C5]: Llama 2， 反馈机制需要专门设计。  
+[^C5]: 华人开发的时序数据库有TDEngine和Timeplus; Meta开源的Llama大家肯定听说过；反馈机制需要专门设计，暂时没有方案。  
 
 
 <!--
@@ -75,9 +75,15 @@ https://www.youtube.com/watch?v=Cpp1FF5SlyY
 -->
 
 ####  写个尾巴
-AI for DB和DB for AI上面两个方向当然都有各自的故事可以讲，我也都去讲过。个人以为数据库内核已经足够成熟，已经人力优化多年，现在的AL水平是无法提供实际提高的（个人并不反对这方面的学术工作，毕竟工业界是要抄作业的）。反而是去周边DMaaS，与日常IT工作相关的反而可以产生革命性的东西
+AI for DB和DB for AI上面两个方向当然都有各自的故事可以讲，我也都去讲过。个人以为数据库内核已经足够成熟，已经人力优化多年，现在的AL水平是无法提供实际提高的（个人并不反对这方面的学术工作或者大厂的research lab）。内核的提高还有待观望，与日常IT工作相关的DMaaS反而可以先发，利用今天的AI技术产生革命性的东西。上面的三个突破点的技术路线是可以立刻发力的
 
+<!--
 老狗不要去跟年轻人拼体力，那叫自不量力。选择自己技术领域，作为专家来去训练自己熟悉的模型才能有所突破。
+-->
+
+The above ideas were formed at Bodega Bay.
+
+![](./images/BodegaBay.jpeg)
 
 
 
