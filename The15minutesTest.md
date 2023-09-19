@@ -73,9 +73,9 @@ TTHW(Time to hello world)是指用给定的编程语言编写一个“Hello, Wor
 	3. TiDB Serverless。 类似现在的“预制菜”。 既然安装部署门槛比较高，不如预先开好服务。用户signup TiDB Cloud之后，就直接指派一个Serverless cluster, 完全**跳过这个门槛**[^D1]。
 * IaC（infrastructure as code）。成熟的云服务使用者都已经摆脱了浏览器和点鼠标为主的操作，因为围绕浏览器的鼠标操作not programable, not serviceable, no quality control, no version control, not scalable。IaC的理念在国际已经非常成熟。请参考大约两年前阿里数据库团队的设计的一些[Terraform为基础范例](https://github.com/alibabacloud-howto/database).
 
-海外数据库类产品，比较流行的上面提到的后三类：Playground(例如Airbyte)，Serverless Instance/Cluster(Bigquery, Snowflake, GCP-RDS), IaC (AWS CloudFormation, HashiCorp's Terraform) 。相信对于国产数据库产品是有启发的。
+海外数据库类产品，比较流行的上面提到的后三类：Playground(例如Airbyte)，预生产（Serverless Instance/Cluster - Bigquery, Snowflake, GCP-RDS), IaC (AWS CloudFormation, HashiCorp's Terraform) 。相信对于国产数据库产品是有启发的，比如NineData为用户提供了 2 个免费的 MySQL 测试数据源[demo_datasource](https://docs.ninedata.cloud/quick_start/demo_datasource)，便是采用“预生产”手段，这样用户在账号建立后，就可以立刻体验SQL 开发，数据复制，备份等功能。
 	
-写在最后的话，不管您是某初创企业的CTO，还是某大厂的决策者，请不要错过任何一个新员工带来的机会。入职的第一天，请这位或实习生或行业大佬完成hello world。他使用的时间便是您产品与用户之间的距离，**贴近客户从15分钟测试做起**。对于有志走向世界的产品，国内比较常见的驻场和人工支持在国际是昂贵到无法逾越的，15分钟测试便尤其重要了
+写在最后的话，不管您是某初创企业的CTO，还是某大厂的决策者，请不要错过任何一个新员工带来的机会。入职的第一天，请这位或实习生或行业大佬完成hello world。他使用的时间便是您产品与用户之间的距离，**贴近客户从15分钟测试做起**。对于有志走向世界的产品，国内比较常见的驻场和人工支持在国际是昂贵到无法逾越的，15分钟测试便尤其重要了。
 
 #### 尾巴
 本文的部分思路是在西湖边的西泠印社完成的。
