@@ -1,17 +1,22 @@
-## 丢掉当幻想：在AI的风口上没有飞起的“猪”
+## 丢掉幻想：在AI的风口上没有飞起的“猪”
+
+### TL;DR
+* 无价格优势
+* GenAI进入商业合作化阶段
+* 放弃以“卡脖子”为基础条件的战略
+* 灵魂三问在本文最后：面向 **招聘HR**，**平台类产品CXO** 和 **初创企业的CXO**
 
 
-
-OpenAI做开发者发布大会的时候，刚好在从上海飞回旧金山的。以我惯性的懒惰，自然是先倒时差。昏昏沉沉的三天之后，再去搜罗网上已经有的各种评论文章（部分转载在本文最后）。讲了什么，发布了什么？都在公开信息上，建议大家尽可能移步到“油土鳖”去看，而且配有自动翻译中文的功能。Keynote总共才45分种，真心建议大家去看原版。科学上网是当今学习的必要工具。
-
-* 《OpenAI DevDay, Opening Keynote》 (link: https://www.youtube.com/watch?v=U9mJuUkhUzk)
+OpenAI做开发者发布大会的时候，刚好在从上海飞回旧金山的。以我惯性的懒惰，自然是先倒时差。昏昏沉沉的三天之后，再去搜罗网上已经有的各种评论文章（部分转载在本文最后）。讲了什么，发布了什么？都在公开信息上，建议大家尽可能移步到“油土鳖”去看，而且配有自动翻译中文的功能。Keynote总共才45分种，真心建议大家去看原版。科学上网是当今学习的必要工具。《OpenAI DevDay, Opening Keynote》 (link: https://www.youtube.com/watch?v=U9mJuUkhUzk)
 
 
 本文只是书写一下个人的直观第一感觉：采用抄作业的方式已经无法成为风口上的“猪”。
 
-OpenAI好像发布的缓慢，实际上每次发布都会直接影响业绩的方向。上个月本人分析了国内关于AI的四种公司，都被这次发布所有重大影响。
 
 ### 1. 现实，还是震撼？
+
+OpenAI好像发布的缓慢，实际上每次发布都会直接影响业绩的方向。上个月本人分析了国内关于AI的四种公司，都被这次发布所有重大影响。
+
 
 某网文题目是“短短 45 分钟发布会，OpenAI 如何再次让 AI 圈一夜未眠” （其他震撼性题目请参考本文末）。老实讲，任何在业界工作过一段时间的人都不应该惊讶才对。从去年11月ChatGPT发布，这一年中发生了什么？让我们结合发布会和最近的新闻看看哪一项是出乎意料的？
 
@@ -53,7 +58,7 @@ AI token呢？ GPT-4 Turbo“更强了但更便宜了”，降价到以前的1/3
 
 对于初创企业，法务问题远比技术问题好解决（关于相关解决路径，本文就不展开了）
 
-那大厂呢，他们也不会拒绝，字节购买10万A100和H800 GPU加速卡（2023六月新闻：https://pandaily.com/bytedance-and-alibaba-place-massive-gpu-orders-with-nvidia-fueling-the-ai-race/)；阿里神龙架构图包括A100（2023四月官网blog: https://www.alibabacloud.com/blog/introduction-to-alibaba-cloud-gpu-service_599905）
+那大厂呢，他们也不会拒绝。字节购买10万A100和H800 GPU加速卡（2023六月新闻：https://pandaily.com/bytedance-and-alibaba-place-massive-gpu-orders-with-nvidia-fueling-the-ai-race/)；阿里神龙架构图包括A100（2023四月官网blog: https://www.alibabacloud.com/blog/introduction-to-alibaba-cloud-gpu-service_599905）
 ![](./ALi-X-Dragon.png)
 
 
@@ -87,7 +92,7 @@ ChatGPT掀起的人工智能的第N次浪潮（DeepBlue, Watson, AlphaGo)渐渐�
 ### 3.  写在最后的灵魂三问
 
 * 招聘HR： 你的候选人是否了解会使用科学上网（中国顶级的科研机构如清华、交大；大厂如华为，阿里，都有一个叫做加速器的东西） 
-* 平台类产品CXO：尤其是大厂平台企业如阿里云，你有什么办法可以帮助你的合作伙伴挣钱，profit sharing? 
+* 平台类产品CXO：尤其是大厂平台企业如阿里云，你有什么办法可以帮助你的合作伙伴挣钱，profit sharing共享成功? 
 * 初创企业的CXO：给自己一个挑战，假设没有“卡脖子”，是否勇于打造面向世界的产品？（数据库市场份额，大中国区只有不到10%，为什么要自己内卷？）
 
 ### 其他关于OpenAI 开发者大会的问题，
